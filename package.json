@@ -1,6 +1,6 @@
 {
-  "name": "egg-pg",
-  "version": "1.0.0",
+  "name": "@cnine/egg-pg",
+  "version": "1.0.1",
   "description": "PostgreSQL database plugin for egg based on pg-promise",
   "eggPlugin": {
     "name": "pg"
@@ -51,6 +51,6 @@
     "url": "https://github.com/Aysnine/egg/issues"
   },
   "homepage": "https://github.com/Aysnine/egg-pg#readme",
-  "author": "CNine",
+  "author": "cnine",
   "license": "MIT"
 }

@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-pg --save
+$ npm i @cnine/egg-pg --save
 ```
 
 ## Usage
